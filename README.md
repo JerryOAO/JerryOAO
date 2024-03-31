@@ -29,13 +29,19 @@
 ## 学习的领域
 目前，我主要关注于以下领域的学习和实践：
 
-- <span > <img src="https://img.shields.io/badge/-HTML5-f66fb2?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /><img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /><img src="https://img.shields.io/badge/-Vue-1572b6?style=flat-square&logo=vuedotjs" /><img src="https://img.shields.io/badge/-React-f66fb2?style=flat-square&logo=react" /><img src="https://img.shields.io/badge/-Springboot-1572b6?style=flat-square&logo=springboot" /><img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /></span>
+**Web 开发**： <span > <img src="https://img.shields.io/badge/-HTML5-f66fb2?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /><img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /><img src="https://img.shields.io/badge/-Vue-1572b6?style=flat-square&logo=vuedotjs" /><img src="https://img.shields.io/badge/-React-f66fb2?style=flat-square&logo=react" /></span>
 
-- **Web 开发**：我正在学习前端和后端开发，掌握 HTML、CSS、JavaScript，以及流行的前端框架如 React 和 Vue。
+我正在学习前端和后端开发，掌握 HTML、CSS、JavaScript，以及流行的前端框架如 React 和 Vue
+***
 
-- **Java 开发**：我正在学习并深入掌握 Java 编程语言，了解面向对象编程的概念和设计模式，以及Spring Boot 框架，它是一个快速开发 Java 应用程序的框架。
+**Java 开发**：<span > <img src="https://img.shields.io/badge/-SpringBoot-f66fb2?style=flat-square&logo=springboot&logoColor=#6DB33F" /><img src="https://img.shields.io/badge/-SpringSecurity-1572B6?style=flat-square&logo=springsecurity" /></span>
 
-- **数据库**：我对关系型数据库和非关系型数据库都有一定的了解，并且正在学习如何使用数据库进行数据存储和查询。我熟悉 SQL 语言，并且有经验使用常见的数据库管理系统如 MySQL 和 Redis。
+我正在学习并深入掌握 Java 编程语言，了解面向对象编程的概念和设计模式，以及Spring Boot 框架，它是一个快速开发 Java 应用程序的框架。
+
+***
+**数据库**：<span > <img src="https://img.shields.io/badge/-mysql-1e1e1e?style=flat-square&logo=mysql&logoColor=#6DB33F" /><img src="https://img.shields.io/badge/-Redis-1572B6?style=flat-square&logo=redis" /></span>
+
+我对关系型数据库和非关系型数据库都有一定的了解，并且正在学习如何使用数据库进行数据存储和查询。我熟悉 SQL 语言，并且有经验使用常见的数据库管理系统如 MySQL 和 Redis。
 
 
 ## 我的项目
