@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://space.bilibili.com/2996371">
         <img src="https://readme-typing-svg.demolab.com?font=Agave&weight=800&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=console.log('hello+world')" alt="Typing SVG" />
     </a>
-  </div>
+  </div> -->
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://github.com/JerryOAO/JerryOAO/blob/master/image/Darian_PC_3840_2160_B.jpg?raw=true" /><br>
