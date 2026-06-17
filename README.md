@@ -8,7 +8,7 @@
   </div> -->
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://github.com/JerryOAO/JerryOAO/blob/master/image/Darian_PC_3840_2160_B.jpg?raw=true" /><br>
+  <img src="https://github.com/JerryOAO/JerryOAO/blob/master/image/person.gif?raw=true" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
